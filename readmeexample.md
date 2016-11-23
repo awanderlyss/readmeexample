@@ -70,4 +70,4 @@ $$$ = function scope
 
 MORE EXAMPLES:
 
-https://www.sitepoint.com/joys-block-scoping-es6/
+https://www.sitepoint.com/joys-block-scoping-es6/ 
